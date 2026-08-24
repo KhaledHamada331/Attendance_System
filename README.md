@@ -1,7 +1,4 @@
-## Face Recognition Attendance System
-markdown
-Copy
-Edit
+
 # Face Recognition Attendance System 👁️🧑‍💼
 
 An automatic attendance system using face recognition via webcam. It offers a secure and fast way to record attendance without the need for manual signing or ID cards.
